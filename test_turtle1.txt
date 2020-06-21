@@ -1,0 +1,7 @@
+# coding=utf-8
+import turtle
+import time #导入时间模块
+
+import turtle
+turtle.forward(200)
+turlte.done()
